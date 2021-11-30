@@ -1,2 +1,2 @@
 # Data-Structres
-codes for  parts of data structures
+This resporetery includes my data structures codework.
